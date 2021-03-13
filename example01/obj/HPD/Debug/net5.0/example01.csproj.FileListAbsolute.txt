@@ -1,0 +1,16 @@
+C:\Users\David\Desktop\POO0121\example01\bin\HPD\Debug\net5.0\example01.exe
+C:\Users\David\Desktop\POO0121\example01\bin\HPD\Debug\net5.0\example01.deps.json
+C:\Users\David\Desktop\POO0121\example01\bin\HPD\Debug\net5.0\example01.runtimeconfig.json
+C:\Users\David\Desktop\POO0121\example01\bin\HPD\Debug\net5.0\example01.runtimeconfig.dev.json
+C:\Users\David\Desktop\POO0121\example01\bin\HPD\Debug\net5.0\example01.dll
+C:\Users\David\Desktop\POO0121\example01\bin\HPD\Debug\net5.0\ref\example01.dll
+C:\Users\David\Desktop\POO0121\example01\bin\HPD\Debug\net5.0\example01.pdb
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.csprojAssemblyReference.cache
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.AssemblyInfo.cs
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.dll
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\ref\example01.dll
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.pdb
+C:\Users\David\Desktop\POO0121\example01\obj\HPD\Debug\net5.0\example01.genruntimeconfig.cache
